@@ -1,0 +1,4 @@
+python3 test_erfnet.py -i /path/to/input -m /path/to/model/xml/file
+
+Example:
+python3 test_erfnet.py -i test4.mp4 -m /opt/intel/openvino/deployment_tools/model_optimizer/ERFNet_trained.xml
